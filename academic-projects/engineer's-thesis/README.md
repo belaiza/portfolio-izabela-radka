@@ -1,5 +1,4 @@
-**Usprawnienie procesu przydzielania funduszy z programu ROHiS w ZHP**
-**Praca inżynierska – Izabela Radka**
+**Praca inżynierska – Izabela Radka pt: "Usprawnienie procesu przydzielania funduszy z programu ROHiS w ZHP"**
 
 **Cel projektu:**
 Celem pracy było przeanalizowanie i usprawnienie procesu przydzielania funduszy z programu ROHiS w Chorągwi Wielkopolskiej ZHP. Proces był mało efektywny, nieintuicyjny dla użytkowników i generował niski udział procentowy w składaniu wniosków.
