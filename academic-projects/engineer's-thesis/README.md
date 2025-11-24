@@ -21,8 +21,10 @@ Praca obejmowała identyfikację problemów, analizę przyczyn oraz zaprojektowa
 - uporządkowana komunikacja między wnioskodawcami a kadrą
 
 **Pliki w folderze:**
-Radka Izabela_praca_inż.pdf – pełna treść pracy inżynierskiej
-(opcjonalnie do dodania później) wyodrębnione diagramy BPMN w formacie PNG
+- Radka Izabela_praca_inż.pdf – pełna treść pracy inżynierskiej
+- Załącznik1_diagram Ishikawy
+- Załącznik2_bpmn_as_is
+- Załącznik3_bpmn_to_be
 
 **Umiejętności zaprezentowane w projekcie:**
 - praktyczne modelowanie procesów w BPMN
